@@ -1,0 +1,202 @@
+request_id,request_date,cash_balance,inventory_value,response
+1,2025-04-01,45099.7,4900.299999999999,"Thank you for your order. All requested items have been sold and confirmed.
+
+SOLD:
+- 200 sheets of A4 glossy paper (our Glossy paper): 200 sheets at $0.20 each = $40.00; standard catalog price (bulk discounts start at 500 units). Price charged: $40.00. Shipped from stock; ready on 2025-04-01, on or before your 2025-04-15 deadline.
+- 100 sheets of heavy cardstock (white) (our 250 gsm cardstock): 100 sheets at $0.30 each = $30.00; standard catalog price (bulk discounts start at 500 units). Price charged: $30.00. Supplied via restock; ready on 2025-04-02, on or before your 2025-04-15 deadline.
+- 100 sheets of colored paper (assorted colors) (our Bright-colored paper): 100 sheets at $0.12 each = $12.00; standard catalog price (bulk discounts start at 500 units). Price charged: $12.00. Supplied via restock; ready on 2025-04-02, on or before your 2025-04-15 deadline.
+
+Total charged: $82.00 (sold items only).
+All sold items will be ready by 2025-04-02."
+2,2025-04-03,45093.45,4900.299999999999,"Thank you for your order. Your order was PARTIALLY fulfilled: 2 of 3 items were sold; the rest could not be fulfilled and you have not been charged for them.
+
+SOLD:
+- 500 sheets of colorful poster paper (our Poster paper): 500 sheets at $0.25 each = $125.00; 5% bulk discount applied (orders of 500+ units). Price charged: $118.75. Supplied via restock; ready on 2025-04-07, on or before your 2025-04-15 deadline.
+- 300 rolls of streamers (our Party streamers): 300 units at $0.05 each = $15.00; standard catalog price (bulk discounts start at 500 units). Price charged: $15.00. Supplied via restock; ready on 2025-04-07, on or before your 2025-04-15 deadline.
+
+NOT FULFILLED:
+- 200 balloons: This is not a product we carry, so we cannot supply it.
+
+Total charged: $133.75 (sold items only).
+All sold items will be ready by 2025-04-07."
+3,2025-04-04,43532.05,4886.699999999999,"Thank you for your order. Your order was PARTIALLY fulfilled: 2 of 3 items were sold; the rest could not be fulfilled and you have not been charged for them.
+
+SOLD:
+- 10,000 sheets of A4 paper (our A4 paper): 10,000 sheets at $0.05 each = $500.00; 15% bulk discount applied (orders of 5,000+ units). Price charged: $425.00. 272 shipped from stock and 9,728 from a supplier restock; complete order ready on 2025-04-11, on or before your 2025-04-15 deadline.
+- 500 reams of printer paper (our Standard copy paper): 250,000 sheets at $0.04 each = $10,000.00; 15% bulk discount applied (orders of 5,000+ units). Price charged: $8,500.00. Supplied via restock; ready on 2025-04-11, on or before your 2025-04-15 deadline.
+
+NOT FULFILLED:
+- 5,000 sheets of A3 paper: This is not a product we carry, so we cannot supply it.
+
+Total charged: $8,925.00 (sold items only).
+All sold items will be ready by 2025-04-11."
+4,2025-04-05,43524.55,4886.699999999999,"Thank you for your order. All requested items have been sold and confirmed.
+
+SOLD:
+- 500 sheets of high-quality, recycled cardstock (our 250 gsm cardstock): 500 sheets at $0.30 each = $150.00; 5% bulk discount applied (orders of 500+ units). Price charged: $142.50. Supplied via restock; ready on 2025-04-09, on or before your 2025-04-15 deadline.
+- 250 sheets of A4 size printer paper (our A4 paper): 250 sheets at $0.05 each = $12.50; standard catalog price (bulk discounts start at 500 units). Price charged: $12.50. Supplied via restock; ready on 2025-04-09, on or before your 2025-04-15 deadline.
+
+Total charged: $155.00 (sold items only).
+All sold items will be ready by 2025-04-09."
+5,2025-04-05,43572.05,4836.7,"Thank you for your order. All requested items have been sold and confirmed.
+
+SOLD:
+- 500 sheets of 8.5""x11"" colored paper (our Colored paper): 500 sheets at $0.10 each = $50.00; 5% bulk discount applied (orders of 500+ units). Price charged: $47.50. Shipped from stock; ready on 2025-04-05, on or before your 2025-04-15 deadline.
+- 300 sheets of cardstock in various colors (our 250 gsm cardstock): 300 sheets at $0.30 each = $90.00; standard catalog price (bulk discounts start at 500 units). Price charged: $90.00. Supplied via restock; ready on 2025-04-09, on or before your 2025-04-15 deadline.
+- 200 rolls of decorative washi tape (our Decorative adhesive tape (washi tape)): 200 units at $0.20 each = $40.00; standard catalog price (bulk discounts start at 500 units). Price charged: $40.00. Supplied via restock; ready on 2025-04-09, on or before your 2025-04-15 deadline.
+
+Total charged: $177.50 (sold items only).
+All sold items will be ready by 2025-04-09."
+6,2025-04-06,43570.3,4836.7,"Thank you for your order. All requested items have been sold and confirmed.
+
+SOLD:
+- colorful construction paper (our Construction paper): 500 sheets at $0.07 each = $35.00; 5% bulk discount applied (orders of 500+ units). Price charged: $33.25. Supplied via restock; ready on 2025-04-10, on or before your 2025-04-15 deadline.
+- white printer paper (our Standard copy paper): 300 sheets at $0.04 each = $12.00; standard catalog price (bulk discounts start at 500 units). Price charged: $12.00. Supplied via restock; ready on 2025-04-10, on or before your 2025-04-15 deadline.
+- cardstock in various colors (our 250 gsm cardstock): 200 sheets at $0.30 each = $60.00; standard catalog price (bulk discounts start at 500 units). Price charged: $60.00. Supplied via restock; ready on 2025-04-10, on or before your 2025-04-15 deadline.
+
+Total charged: $105.25 (sold items only).
+All sold items will be ready by 2025-04-10."
+7,2025-04-07,43924.7,4459.299999999999,"Thank you for your order. All requested items have been sold and confirmed.
+
+SOLD:
+- 500 sheets of glossy A4 paper (our Glossy paper): 500 sheets at $0.20 each = $100.00; 5% bulk discount applied (orders of 500+ units). Price charged: $95.00. 387 shipped from stock and 113 from a supplier restock; complete order ready on 2025-04-11, on or before your 2025-04-15 deadline.
+- 1000 sheets of matte A3 paper (our Matte paper): 1,000 sheets at $0.18 each = $180.00; 10% bulk discount applied (orders of 1,000+ units). Price charged: $162.00. Supplied via restock; ready on 2025-04-11, on or before your 2025-04-15 deadline.
+- 300 poster boards (24"" x 36"") (our Large poster paper (24x36 inches)): 300 units at $1.00 each = $300.00; standard catalog price (bulk discounts start at 500 units). Price charged: $300.00. Shipped from stock; ready on 2025-04-07, on or before your 2025-04-15 deadline.
+- 200 sheets of heavyweight cardstock (our 250 gsm cardstock): 200 sheets at $0.30 each = $60.00; standard catalog price (bulk discounts start at 500 units). Price charged: $60.00. Supplied via restock; ready on 2025-04-11, on or before your 2025-04-15 deadline.
+
+Total charged: $617.00 (sold items only).
+All sold items will be ready by 2025-04-11."
+8,2025-04-07,43886.5,4430.5,"Thank you for your order. All requested items have been sold and confirmed.
+
+SOLD:
+- 500 sheets of A4 glossy paper (our Glossy paper): 500 sheets at $0.20 each = $100.00; 5% bulk discount applied (orders of 500+ units). Price charged: $95.00. Supplied via restock; ready on 2025-04-11, on or before your 2025-04-15 deadline.
+- 1000 sheets of A4 matte paper (our Matte paper): 1,000 sheets at $0.18 each = $180.00; 10% bulk discount applied (orders of 1,000+ units). Price charged: $162.00. Supplied via restock; ready on 2025-04-11, on or before your 2025-04-15 deadline.
+- 2000 sheets of A5 colored paper (our Colored paper): 2,000 sheets at $0.10 each = $200.00; 10% bulk discount applied (orders of 1,000+ units). Price charged: $180.00. 288 shipped from stock and 1,712 from a supplier restock; complete order ready on 2025-04-14, on or before your 2025-04-15 deadline.
+- 3000 sheets of A4 recycled paper (our Recycled paper): 3,000 sheets at $0.08 each = $240.00; 10% bulk discount applied (orders of 1,000+ units). Price charged: $216.00. Supplied via restock; ready on 2025-04-14, on or before your 2025-04-15 deadline.
+
+Total charged: $653.00 (sold items only).
+All sold items will be ready by 2025-04-14."
+9,2025-04-07,43886.5,4430.5,"Thank you for your order. Your order was PARTIALLY fulfilled: 2 of 3 items were sold; the rest could not be fulfilled and you have not been charged for them.
+
+SOLD:
+- 100 sheets of A3 glossy paper (our Glossy paper): 100 sheets at $0.20 each = $20.00; standard catalog price (bulk discounts start at 500 units). Price charged: $20.00. Supplied via restock; ready on 2025-04-08, on or before your 2025-04-10 deadline.
+- 50 packets of 100% recycled kraft paper envelopes (our Envelopes): 50 units at $0.05 each = $2.50; standard catalog price (bulk discounts start at 500 units). Price charged: $2.50. Supplied via restock; ready on 2025-04-08, on or before your 2025-04-10 deadline.
+
+NOT FULFILLED:
+- 200 sheets of A4 white printer paper: This item is currently out of stock; a supplier restock of 200 sheets would arrive on 2025-04-11, which is after your 2025-04-10 deadline.
+
+Total charged: $22.50 (sold items only).
+All sold items will be ready by 2025-04-08.
+If you can extend your deadline or adjust quantities for the unfulfilled items, just let us know and we will be happy to quote them again."
+10,2025-04-08,43886.5,4430.5,"Thank you for your request. Unfortunately we were unable to fulfill this order, and you have not been charged.
+
+NOT FULFILLED:
+- 500 sheets of A4 printing paper: This item is currently out of stock; a supplier restock of 500 sheets would arrive on 2025-04-12, which is after your 2025-04-10 deadline.
+- 200 sheets of cardstock: This item is currently out of stock; a supplier restock of 200 sheets would arrive on 2025-04-12, which is after your 2025-04-10 deadline.
+
+Total charged: $0.00.
+If you can extend your deadline or adjust quantities for the unfulfilled items, just let us know and we will be happy to quote them again."
+11,2025-04-08,43885.5,4430.5,"Thank you for your order. All requested items have been sold and confirmed.
+
+SOLD:
+- colorful cardstock (our 250 gsm cardstock): 200 sheets at $0.30 each = $60.00; standard catalog price (bulk discounts start at 500 units). Price charged: $60.00. Supplied via restock; ready on 2025-04-12, on or before your 2025-04-15 deadline.
+- standard printer paper (our Standard copy paper): 500 sheets at $0.04 each = $20.00; 5% bulk discount applied (orders of 500+ units). Price charged: $19.00. Supplied via restock; ready on 2025-04-12, on or before your 2025-04-15 deadline.
+- Paper napkins: 100 units at $0.02 each = $2.00; standard catalog price (bulk discounts start at 500 units). Price charged: $2.00. Supplied via restock; ready on 2025-04-09, on or before your 2025-04-15 deadline.
+
+Total charged: $81.00 (sold items only).
+All sold items will be ready by 2025-04-12."
+12,2025-04-08,43880.5,4430.5,"Thank you for your order. All requested items have been sold and confirmed.
+
+SOLD:
+- 500 sheets of high-quality glossy paper (our Glossy paper): 500 sheets at $0.20 each = $100.00; 5% bulk discount applied (orders of 500+ units). Price charged: $95.00. Supplied via restock; ready on 2025-04-12, on or before your 2025-04-15 deadline.
+- 300 sheets of sturdy cardstock (our 250 gsm cardstock): 300 sheets at $0.30 each = $90.00; standard catalog price (bulk discounts start at 500 units). Price charged: $90.00. Supplied via restock; ready on 2025-04-12, on or before your 2025-04-15 deadline.
+
+Total charged: $185.00 (sold items only).
+All sold items will be ready by 2025-04-12."
+13,2025-04-08,43875.5,4430.5,"Thank you for your order. All requested items have been sold and confirmed.
+
+SOLD:
+- 500 sheets of A3 glossy paper (our Glossy paper): 500 sheets at $0.20 each = $100.00; 5% bulk discount applied (orders of 500+ units). Price charged: $95.00. Supplied via restock; ready on 2025-04-12, on or before your 2025-04-15 deadline.
+- 300 sheets of A4 matte paper (our A4 paper): 300 sheets at $0.05 each = $15.00; standard catalog price (bulk discounts start at 500 units). Price charged: $15.00. Supplied via restock; ready on 2025-04-12, on or before your 2025-04-15 deadline.
+
+Total charged: $110.00 (sold items only).
+All sold items will be ready by 2025-04-12."
+14,2025-04-09,43868.0,4430.5,"Thank you for your order. Your order was PARTIALLY fulfilled: 1 of 3 items were sold; the rest could not be fulfilled and you have not been charged for them.
+
+SOLD:
+- 500 sheets of cardstock (our 250 gsm cardstock): 500 sheets at $0.30 each = $150.00; 5% bulk discount applied (orders of 500+ units). Price charged: $142.50. Supplied via restock; ready on 2025-04-13, on or before your 2025-04-15 deadline.
+
+NOT FULFILLED:
+- 5,000 sheets of A4 paper: This item is currently out of stock; a supplier restock of 5,000 sheets would arrive on 2025-04-16, which is after your 2025-04-15 deadline.
+- 2,000 sheets of poster paper in various colors: This item is currently out of stock; a supplier restock of 2,000 sheets would arrive on 2025-04-16, which is after your 2025-04-15 deadline.
+
+Total charged: $142.50 (sold items only).
+All sold items will be ready by 2025-04-13.
+If you can extend your deadline or adjust quantities for the unfulfilled items, just let us know and we will be happy to quote them again."
+15,2025-04-12,43868.0,4430.5,"Thank you for your request. Unfortunately we were unable to fulfill this order, and you have not been charged.
+
+NOT FULFILLED:
+- 10,000 sheets of A4 white paper: This item is currently out of stock; a supplier restock of 10,000 sheets would arrive on 2025-04-19, which is after your 2025-04-15 deadline.
+- 5,000 sheets of A3 colored paper (assorted colors): This item is currently out of stock; a supplier restock of 5,000 sheets would arrive on 2025-04-19, which is after your 2025-04-15 deadline.
+- 500 reams of cardboard for signage: This is not a product we carry, so we cannot supply it.
+
+Total charged: $0.00.
+If you can extend your deadline or adjust quantities for the unfulfilled items, just let us know and we will be happy to quote them again."
+16,2025-04-13,43868.0,4430.5,"Thank you for your order. Your order was PARTIALLY fulfilled: 1 of 3 items were sold; the rest could not be fulfilled and you have not been charged for them.
+
+SOLD:
+- 100 sheets of poster board (our 220 gsm poster paper): 100 sheets at $0.35 each = $35.00; standard catalog price (bulk discounts start at 500 units). Price charged: $35.00. Supplied via restock; ready on 2025-04-14, on or before your 2025-04-15 deadline.
+
+NOT FULFILLED:
+- 500 sheets of A4 printer paper: This item is currently out of stock; a supplier restock of 500 sheets would arrive on 2025-04-17, which is after your 2025-04-15 deadline.
+- 200 sheets of colorful construction paper: This item is currently out of stock; a supplier restock of 200 sheets would arrive on 2025-04-17, which is after your 2025-04-15 deadline.
+
+Total charged: $35.00 (sold items only).
+All sold items will be ready by 2025-04-14.
+If you can extend your deadline or adjust quantities for the unfulfilled items, just let us know and we will be happy to quote them again."
+17,2025-04-14,43915.5,4380.5,"Thank you for your order. Your order was PARTIALLY fulfilled: 1 of 5 items were sold; the rest could not be fulfilled and you have not been charged for them.
+
+SOLD:
+- 500 paper plates (biodegradable) (our Paper plates): 500 units at $0.10 each = $50.00; 5% bulk discount applied (orders of 500+ units). Price charged: $47.50. Shipped from stock; ready on 2025-04-14, on or before your 2025-04-15 deadline.
+
+NOT FULFILLED:
+- 1000 sheets of A4 white printer paper: This item is currently out of stock; a supplier restock of 1,000 sheets would arrive on 2025-04-18, which is after your 2025-04-15 deadline.
+- 500 sheets of A3 colored paper (assorted colors): This item is currently out of stock; a supplier restock of 500 sheets would arrive on 2025-04-18, which is after your 2025-04-15 deadline.
+- 2000 table napkins (white): This item is currently out of stock; a supplier restock of 2,000 units would arrive on 2025-04-21, which is after your 2025-04-15 deadline.
+- 1000 paper cups (biodegradable): This item is currently out of stock; a supplier restock of 1,000 units would arrive on 2025-04-18, which is after your 2025-04-15 deadline.
+
+Total charged: $47.50 (sold items only).
+All sold items will be ready by 2025-04-14.
+If you can extend your deadline or adjust quantities for the unfulfilled items, just let us know and we will be happy to quote them again."
+18,2025-04-14,43915.5,4380.5,"Thank you for your request. Unfortunately we were unable to fulfill this order, and you have not been charged.
+
+NOT FULFILLED:
+- 500 sheets of high-quality white cardstock: This item is currently out of stock; a supplier restock of 500 sheets would arrive on 2025-04-18, which is after your 2025-04-15 deadline.
+- 1000 sheets of standard printing paper: This item is currently out of stock; a supplier restock of 1,000 sheets would arrive on 2025-04-18, which is after your 2025-04-15 deadline.
+- 200 sheets of colored paper in assorted colors: This item is currently out of stock; a supplier restock of 200 sheets would arrive on 2025-04-18, which is after your 2025-04-15 deadline.
+
+Total charged: $0.00.
+If you can extend your deadline or adjust quantities for the unfulfilled items, just let us know and we will be happy to quote them again."
+19,2025-04-15,43885.5,4380.5,"Thank you for your order. Your order was PARTIALLY fulfilled: 1 of 3 items were sold; the rest could not be fulfilled and you have not been charged for them.
+
+SOLD:
+- 1000 sheets of cardstock in assorted colors (our 250 gsm cardstock): 1,000 sheets at $0.30 each = $300.00; 10% bulk discount applied (orders of 1,000+ units). Price charged: $270.00. Supplied via restock; ready on 2025-04-19, on or before your 2025-04-20 deadline.
+
+NOT FULFILLED:
+- 2000 sheets of A4 glossy paper: This item is currently out of stock; a supplier restock of 2,000 sheets would arrive on 2025-04-22, which is after your 2025-04-20 deadline.
+- 1500 sheets of A3 matte paper: This item is currently out of stock; a supplier restock of 1,500 sheets would arrive on 2025-04-22, which is after your 2025-04-20 deadline.
+
+Total charged: $270.00 (sold items only).
+All sold items will be ready by 2025-04-19.
+If you can extend your deadline or adjust quantities for the unfulfilled items, just let us know and we will be happy to quote them again."
+20,2025-04-17,43703.0,4380.5,"Thank you for your order. Your order was PARTIALLY fulfilled: 2 of 3 items were sold; the rest could not be fulfilled and you have not been charged for them.
+
+SOLD:
+- 5,000 flyers (our Flyers): 5,000 units at $0.15 each = $750.00; 15% bulk discount applied (orders of 5,000+ units). Price charged: $637.50. Supplied via restock; ready on 2025-04-24, on or before your 2025-05-15 deadline.
+- 2,000 posters (our 220 gsm poster paper): 2,000 sheets at $0.35 each = $700.00; 10% bulk discount applied (orders of 1,000+ units). Price charged: $630.00. Supplied via restock; ready on 2025-04-24, on or before your 2025-05-15 deadline.
+
+NOT FULFILLED:
+- 10,000 tickets: This is not a product we carry, so we cannot supply it.
+
+Total charged: $1,267.50 (sold items only).
+All sold items will be ready by 2025-04-24."

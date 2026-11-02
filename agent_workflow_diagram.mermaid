@@ -1,0 +1,38 @@
+flowchart TD
+    C([Customer request + date]) --> X["Python pre-processing<br/>extract request date & deadline"]
+    X --> O
+
+    subgraph ORCH["Orchestrator Agent (CodeAgent)"]
+        O["Interpret request<br/>map each item to exact catalog name or NONE"]
+        R["Tool: register_order_lines<br/>validates & LOCKS order lines"]
+        O --> R
+    end
+
+    R -->|locked lines| INV
+    R -->|locked lines| QUO
+    R -->|finalize| ORD
+
+    subgraph INV["Inventory Agent (ToolCallingAgent)"]
+        I1["check_inventory"] -.-> H1[(get_all_inventory)]
+        I2["check_item_stock"] -.-> H2[(get_stock_level)]
+        I3["check_delivery_timeline"] -.-> H3[(get_supplier_delivery_date)]
+    end
+
+    subgraph QUO["Quoting Agent (ToolCallingAgent)"]
+        Q1["lookup_quote_history"] -.-> H4[(search_quote_history)]
+        Q2["quote_line<br/>bulk-discount policy"]
+    end
+
+    subgraph ORD["Ordering Agent (ToolCallingAgent)"]
+        F["fulfill_order<br/>per line: stock → restock date vs deadline<br/>→ cash check → record restock & sale"]
+        G["get_company_financial_report"] -.-> H7[(generate_financial_report)]
+        F -.-> H2b[(get_stock_level)]
+        F -.-> H3b[(get_supplier_delivery_date)]
+        F -.-> H5[(get_cash_balance)]
+        F -.-> H6[(create_transaction)]
+    end
+
+    F --> RES[("Per-line results<br/>SOLD / DECLINED")]
+    R -.->|"safety net: finalize<br/>if fulfill_order not called"| RES
+    RES --> RR["render_response()<br/>deterministic, from recorded results"]
+    RR --> OUT([Customer response:<br/>per-line status, prices, discount reasons,<br/>ready dates, total charged])
